@@ -1,0 +1,9 @@
+=============================================================================
+                HASIL PERHITUNGAN LUAS PERSEGI ANDA
+=============================================================================
+Tanggal Perhitungan     : 2022-06-03 
+Jam Perhitungan         : 03:55:37 
+Sisi Persegi            : 3 
+Rumus Luas Persegi      : Sisi x Sisi
+                          3 x 3 
+Luas Persegi            : 9
